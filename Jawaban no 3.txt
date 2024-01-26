@@ -1,0 +1,10 @@
+Jawaban soal no 3
+Defect : 
+
+1. Penggunaan judul form "New Regristratio" tidak lengkap
+2. Penggunaan "Choose User Id" tidak lazim dapat diganti dengan username
+3. Pada field password dan confirm password menggunakan inputan "*" yang sama, atau dapat menggunakan checksbox lihat karakter
+4. Pada field password dapat ditambahkan petunjuk pengisian password dengan menggunakan karakter apa saja yang bisa digunakan
+5. Warna pada form title tidak sama
+6. Tombol register pada karakter "r" menggunakan font yang berbeda dengan karakter selanjutnya
+7. Pada chaptca dapat mengisi karakter alphabet, sedangkan pada petunjuk pengisian chatpca berupa angka
